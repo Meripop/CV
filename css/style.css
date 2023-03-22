@@ -12,7 +12,7 @@ body{
 }
 .name{
   padding-left: 10px;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .title{
   margin-bottom: 0;
@@ -28,7 +28,7 @@ body{
 }
 .grayText{
   color: #4e4e4e;
-  font-size: 0.8rem;
+  font-size: 1rem;
   padding-left: 15px;
 }
 img{
@@ -46,4 +46,8 @@ img{
 }
 a{
   color: #4e4e4e;
+}
+ul{
+  margin-top: 0;
+  margin-bottom: 0;
 }
